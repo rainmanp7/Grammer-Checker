@@ -1,6 +1,13 @@
 # Grammer-Checker
 Hybrid Grammer and Spell check
 
+You first create dummy file.
+
+then you fire up the trainer that
+will produce 2 files
+
+you then fire up the grammar checker 
+that also has a built in cli.
 
 Step-by-Step Instructions
 1. Save the Updated Script
